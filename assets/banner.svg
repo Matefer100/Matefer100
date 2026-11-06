@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Matefer100 — código, seguridad y curiosidad</title>
+  <desc id="desc">Banner pixel art de terminal con una cabra cuadriculada y colores cian y verde.</desc>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" fill="#080d18"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect x="48" y="36" width="1104" height="268" fill="#080d18" stroke="#22d3ee" stroke-width="4"/>
+  <rect x="60" y="48" width="1080" height="244" fill="#0d1524" stroke="#334155" stroke-width="2"/>
+  <rect x="60" y="48" width="1080" height="36" fill="#172235"/>
+  <rect x="78" y="61" width="10" height="10" fill="#fb7185"/>
+  <rect x="98" y="61" width="10" height="10" fill="#fbbf24"/>
+  <rect x="118" y="61" width="10" height="10" fill="#a3e635"/>
+  <text x="600" y="72" fill="#94a3b8" font-family="monospace" font-size="13" text-anchor="middle">~/profile — 8-bit mode</text>
+  <text x="92" y="134" fill="#22d3ee" font-family="monospace" font-size="18">&gt;</text>
+  <text x="118" y="134" fill="#cbd5e1" font-family="monospace" font-size="18">whoami</text>
+  <text x="92" y="204" fill="url(#glow)" font-family="monospace" font-size="52" font-weight="bold" letter-spacing="2">MATEFER100</text>
+  <text x="94" y="244" fill="#cbd5e1" font-family="monospace" font-size="17">código <tspan fill="#64748b">/</tspan> seguridad <tspan fill="#64748b">/</tspan> curiosidad</text>
+  <text x="94" y="274" fill="#94a3b8" font-family="monospace" font-size="13">$ learn --by-building --break-safely</text>
+  <g transform="translate(936 120)">
+    <path d="M48 0h12v12H48zM36 12h12v12H36zM60 12h12v12H60zM36 24h36v12H36zM24 36h60v12H24zM12 48h84v12H12zM0 60h108v24H0zM12 84h84v24H12zM24 108h24v12H24zM72 108h24v12H72z" fill="#e2e8f0"/>
+    <path d="M48 0h12v12H48zM36 12h12v12H36zM60 12h12v12H60z" fill="#a3e635"/>
+    <path d="M36 36h12v12H36zM60 36h12v12H60z" fill="#22d3ee"/>
+    <path d="M30 60h12v12H30zM72 60h12v12H72z" fill="#080d18"/>
+    <path d="M42 72h36v6H42z" fill="#080d18"/>
+    <path d="M24 84h60v12H24z" fill="#cbd5e1"/>
+    <path d="M24 108h24v12H24zM72 108h24v12H72z" fill="#64748b"/>
+  </g>
+  <rect x="900" y="270" width="180" height="4" fill="#22d3ee"/>
+  <rect x="1080" y="270" width="48" height="4" fill="#a3e635"/>
+</svg>
